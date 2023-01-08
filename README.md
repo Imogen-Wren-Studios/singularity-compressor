@@ -9,5 +9,8 @@ Voltage Controlled Amplfier based compressor circuit. Suitable for guitar &amp; 
 
 
 
-## Version 2 (Incomplete)
+## Version 2 Mod 
+
+![image](https://user-images.githubusercontent.com/53580358/211211619-8b25a59e-4fd9-49d6-9f16-39aea3bb4a80.png)
+
 
